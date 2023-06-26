@@ -1,6 +1,7 @@
 # Dice Game
 
 This project is a Dice Game implemented using HTML, CSS, and JavaScript. It allows two players to play and roll the dice. The main objective of this project is to practice and apply the knowledge of HTML, CSS, and JavaScript, while also creating a responsive website.
+Play the game here: https://mukeshkc123.github.io/Dice-Game/
 
 ## How to Play
 
